@@ -12,7 +12,7 @@
 
 - 🔭 Working on full-stack projects using **React**, **Spring Boot**, **MySQL**, and **Tailwind CSS**
 - 🌱 Focused on improving DSA skills through the **NeetCode 150** list  
-- 🧩 Solved **145+ problems** on **LeetCode**
+- 🧩 Solved **150+ problems** on **LeetCode**
 - 💡 Passionate about clean code, learning new tools, and building useful applications
 
 ---
