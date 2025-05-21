@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Agnesh K 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL;145%2B+LeetCode+Problems+Solved;NeetCode+150+In+Progress" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL;150%2B+LeetCode+Problems+Solved;NeetCode+150+In+Progress" alt="Typing animation" />
 </p>
 
 ---
