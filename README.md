@@ -7,9 +7,15 @@
 </p>
 
 <!-- 📸 Updated Banner (Fixed size & centered) -->
+<!-- 🎨 Updated Banner (Smaller height, centered, clean display) -->
+<!-- 🎨 Responsive Full-Width Banner -->
+<!-- 🎨 Clean Full-Width Responsive Banner -->
 <p align="center">
-  <img src="creative.png" alt="Agnesh K Banner" style="max-width: 800px; width: 100%; border-radius: 12px;" />
+  <img src="creative.png" alt="Agnesh K Banner" width="100%" />
 </p>
+
+
+
 
 ---
 
